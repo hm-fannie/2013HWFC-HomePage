@@ -1,0 +1,122 @@
+﻿.leftbotton{
+	width:200px;
+	height:28px;
+	margin-left:5px;
+}
+.showbotton{
+	background-image:url(../img/leftshow.png);
+	width:82px;
+	height:28px;
+	color:white;
+	float:left;
+	text-align:center;
+	line-height:28px;
+
+}
+.hidebotton{
+	background-image:url(../img/lefthide.png);
+	width:82px;
+	height:28px;
+	color:white;
+	float:left;
+	text-align:center;
+	line-height:28px;
+}
+.contain{
+	width:250px;
+	height:155px;
+	margin:auto;
+}
+
+#contain1{
+display:none;
+}
+.timeAddress{
+	background:black;
+	width:250px;
+	height:20px;
+	color:white;
+}
+.time{
+	float:left;
+	margin-left:5px;
+}
+.address{
+	float:right;
+	margin-right:8px;
+}
+.vsback{
+	background-image:url(../img/vsback.png);
+	height:135px;
+	width:250px;
+}
+.vscontain{
+	width:250px;
+	height:105px;
+	margin:auto;
+}
+.vslogo{
+margin-top:10px;
+	float:left;
+	margin-left:20px;
+}
+.vs{
+	margin-top:50px;
+	margin-left:15px;
+	float:left;
+	height:45px;
+}
+.rivalBlank{
+	height:18px;
+	width:95px;
+}
+.rivaltall{
+	width:100px;
+	height:90px;
+	display:table;
+}
+.rivalname{
+	width:100px;
+	color:white;
+	font-size:18px;
+	text-align:center;
+	position:relative;
+	display:table-cell;
+	vertical-align:middle;
+	margin-left:20px;	
+}
+.rival{
+margin-left:5px;
+float:left;
+}
+.name{
+	height:20px;
+	width:250px;
+	text-align:center;
+	color:#bebbbb;
+	font-size:14px;
+}
+.head{
+	color:white;
+	font-weight:normal;
+	background-image:url(../img/nextshowheader.png);
+	height:30px;
+}
+.head th{
+font-size:14px;
+	font-weight:normal;
+}
+
+.table1 td{
+	font-size:12px;
+	color:#444444;
+	text-align:center;
+}
+.tr1{
+	background-image:url(../img/tablewhite.png);
+	height:20.8px;
+}
+.tr2{
+	background-image:url(../img/tablegray.png);
+	height:20.8px;
+}

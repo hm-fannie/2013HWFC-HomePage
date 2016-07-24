@@ -1,0 +1,72 @@
+﻿.announleft{
+float:left;
+	width:200px;
+	height:100px;
+}
+.announlogo{
+	width:168px;
+	height:51px;
+	margin:auto auto;
+}
+.announleftblank{
+	width:200px;
+	height:24.5px;
+}
+.announmiddle{
+float:left;
+	width:8px;
+	height:100px;
+}
+.announsign{
+	float:left;
+	width:3px;
+	height:100px;
+}
+.sign0{
+margin-top:36px;
+float:left;
+}
+.sign1{
+margin-top:26px;
+float:left;
+}
+.annountitle{
+width:350px;
+height:100px;
+float:left;
+}
+.annountitle a{
+text-decoration:none;
+}
+.annountitleT:hover{
+color:#0066cc;
+}
+.annountitleT{
+	font-size:12px;
+	color:#000d5a;
+	font-weight:normal;
+	font-family:"微软雅黑";
+	width:350px;
+}
+#annountitle0{
+	margin-top:28px;
+	width:350px;
+}
+#annountitle1{
+	margin-top:15px;
+	width:350px;
+}
+
+.announright{
+	width:44px;
+	height:100px;
+	float:left;
+	margin-left:7px;
+}
+.more{
+	margin-top:10px;
+}
+.more a img{
+	text-decoration:none;
+	border:none;
+}

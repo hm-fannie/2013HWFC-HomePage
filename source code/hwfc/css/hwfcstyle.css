@@ -1,0 +1,86 @@
+﻿body{
+	background-image:url(../img/bodyback.png);
+	background-repeat:repeat;
+	font-family: "微软雅黑", Arial, Helvetica, sans-serif;
+	font-weight: normal;
+    font-size: 12px;
+}
+.container{
+	width:910px;
+	height:1209px;
+	background-image:url(../img/middle.png);
+	margin:-10px auto;
+}
+.blank{
+	width:910px;
+	height:280px;
+}
+.navidownblank{
+width:910px;
+height:1px;
+}
+.leftbox{
+	background-image:url(../img/blueback.png);
+	width:260px;
+	height:850px;
+	float:left;
+}
+.leftblank{
+	width:260px;
+	height:3px;
+}
+
+.shownext{
+	width:260px;
+	height:183px;
+}
+.weibo{
+width:250px;
+height:520px;
+margin:0px auto;
+}
+.weixin{
+width:233px;
+height:136px;
+margin:0px auto;
+background-image:url(../img/weixin.png);
+}
+.middleblank{
+	width:8px;
+	height:850px;
+	float:left;
+}
+.rightbox{
+	width:642px;
+	height:850px;
+	float:left;
+	background-image:url(../img/blueback.png);
+	background-repeat:repeat;
+}
+.rightcontain{
+	width:632px;
+	height:847px;
+	margin:0px auto;
+}
+
+.scanImg{
+	width:632px;
+	height:330px;
+	background-image:url(../img/whiteback.png);
+}
+.announcement{
+	width:632px;
+	height:100px;
+	background-image:url(../img/whiteback.png);
+}
+.news{
+	width:632px;
+	height:198px;
+	background-image:url(../img/whiteback.png);
+}
+.video{
+	width:632px;
+	height:207px;
+	background-image:url(../img/whiteback.png);
+}
+

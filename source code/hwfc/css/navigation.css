@@ -1,0 +1,63 @@
+﻿.navigation {
+	width:910px;
+	height:85px;
+	padding:0; 
+
+	background-image:url(../img/导航背景.png);
+	background-position:bottom;
+	background-repeat:no-repeat;
+}
+
+.navigationBotton{
+	width:900px;
+	height:40px;
+	list-style-type:none; 
+	margin:0px auto;
+}
+.navigationBotton a{
+text-decoration:none;
+}
+
+.naviCurrent{
+	text-decoration:none; 
+	font-weight:bold;
+	font-size:15px;
+	float:left;
+	width:135px;
+	height:75px;
+	text-align:center;
+	line-height:100px;
+	background-position:center;
+	background-repeat:no-repeat;
+	color:#3a8bdc;
+}
+
+
+.naviNot{
+	text-decoration:none; 
+	height:75px;
+	font-weight:bold;
+	font-size:15px;
+	color:#434343;
+	float:left;
+	width:135px;
+	text-align:center;
+	line-height:100px;
+}
+.naviNot:hover{
+	background-image:url(../img/半圆.png);
+	background-repeat:no-repeat;
+	color:#3a8bdc;
+}
+
+#navilogoout{
+	float:left;
+	margin-top:-40px;
+	width:90px;
+}
+.navilogo{
+	float:left;
+	margin-left:10px;
+}
+
+	

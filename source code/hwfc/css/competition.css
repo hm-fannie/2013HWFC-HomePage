@@ -1,0 +1,116 @@
+﻿.competionClass{
+background-image:url("../img/competitionClass.jpg");
+width:550px;
+height:41px;
+border:1px solid #cfcfcf;
+}
+.ClassBlankLeft{
+width:4px;
+height:41px;
+float:left;
+}
+.ClassBlankTop{
+width:546px;
+height:3px;
+float:left;
+}
+.ClassShow{
+height:38px;
+background-image:url("../img/competitiontablehead.png");
+font-size:15px;
+font-weight:bold;
+color:white;
+float:left;
+text-align:center;
+line-height:44px;
+}
+.ClassHide{
+height:38px;
+font-size:15px;
+font-weight:bold;
+color:#333333;
+float:left;
+text-align:center;
+line-height:44px;
+}
+#Class0{
+	width:65px;
+}
+#Class1{
+	width:95px;
+}
+#Class2{
+	width:50px;
+}
+.competitiontableth{
+height:38px;
+background-image:url("../img/competitiontablehead.png");
+
+}
+.competitiontableth th{
+font-size:13px;
+color:white;
+font-weight:normal;
+}
+.ctd0{
+background-color:#d8d5d5;
+font-size:12px;
+color:#666666;
+font-weight:normal;
+text-align:center;
+height:35px;
+}
+.ctd1{
+background-color:white;
+color:#666666;
+font-size:12px;
+font-weight:normal;
+text-align:center;
+height:35px;
+}
+#comtable1{
+display:none;
+}
+#comtable2{
+display:none;
+}
+.ctd0 a{
+text-decoration:none;
+color:#0033cc;	
+}
+.ctd1 a{
+text-decoration:none;
+color:#0033cc;	
+}
+.ctd0 a:hover{
+text-decoration:none;
+	font-weight:bold;
+	color:#0099ff;	
+		font-size:12px;
+		left:1px;
+		top:1px;
+		position:relative;
+}
+.ctd1 a:hover{
+text-decoration:none;
+	font-weight:bold;
+	color:#0099ff;	
+	font-size:12px;
+	left:1px;
+	top:1px;
+position:relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

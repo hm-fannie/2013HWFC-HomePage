@@ -1,0 +1,85 @@
+﻿.scancontain{
+width:635px;
+height:345px;
+margin:auto auto;
+}
+.scanRight{
+	width:480px;
+	height:325px;
+	float:left;
+}
+
+.scanBig{
+	width:480px;
+	height:301px;
+	float:left;
+	position:relative;
+}
+.scanMiddle{
+	width:15px;
+	height:325px;
+	float:left;
+
+}
+.scanLeft{
+	width:135px;
+	height:325px;
+	float:left;
+}
+.imgBlank{
+	width:100px;
+	height:7px;
+}
+.scanBotton{
+	width:132px;
+	height:81px;
+}
+.scanShow{
+	width:7px;
+	height:65px;
+	background-color:#3a8bdc;
+	float:left;
+}
+.smallImg{
+	float:left;
+}
+.scanhide{
+	width:7px;
+	height:65px;
+	float:left;
+
+}
+
+#scanT{
+margin-left:20px;
+font-size:15px;
+font-weight:bold;
+}
+#scanBig0{
+	z-index:3;
+	position:absolute;
+	top:0;
+	left:0;
+	display:block;
+}
+#scanBig1{
+	z-index:2;
+	position:absolute;
+	top:0;
+	left:0;
+	display:none;
+}
+#scanBig2{
+	z-index:1;
+	position:absolute;
+	top:0;
+	left:0;
+	display:none;
+}
+#scanBig3{
+	z-index:0;
+	position:absolute;
+	top:0;
+	left:0;
+	display:none;
+}

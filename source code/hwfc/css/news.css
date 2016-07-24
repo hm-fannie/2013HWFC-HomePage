@@ -1,0 +1,177 @@
+﻿.newsUpBlank{
+	width:632px;
+	height:15px;
+}
+.newsLogo{
+	margin-left:10px;
+}
+.newsmore{
+	margin-left:480px;
+}
+.newsHead{
+	width:632px;
+	height:30px;
+}
+.newsHead a img{
+border:none;
+}
+.newsContain{
+	width:612px;
+	height:145px;
+	margin:0px auto;
+}
+.newsPhoto{
+	float:left;
+	width:240px;
+	height:135px;
+	position:relative;
+}
+.newsPh{
+	float:left;
+	position:absolute;
+	top:0;
+	left:0;
+	display:none;
+}
+#newsPh0{
+	z-index:4;
+	display:block;
+}
+#newsPh1{
+	z-index:3;
+	display:none;
+}
+#newsPh2{
+	z-index:2;
+	display:none;
+}
+#newsPh3{
+	z-index:1;
+	display:none;
+}
+#newsPh4{
+	z-index:0;
+	display:none;
+}
+.newsSign{
+	float:left;
+	width:3px;
+	height:130px;
+}
+.sign2{
+	margin-top:15px;
+}
+.sign3{
+	margin-top:20px;
+}
+.newsTitles{
+	width:335px;
+	height:130px;
+	float:left;
+	margin-left:7px;
+}
+.newsTitleT{
+	font-size:12px;
+	color:#000d5a;
+	font-weight:normal;
+	font-family:"微软雅黑";
+}
+.newsTitles a{
+	text-decoration:none;
+}
+.newsTitleT:hover{
+	color:#0066cc;
+}
+#news0{
+	margin-top:7px;
+}
+#news1{
+	margin-top:8.5px;
+}
+#news2{
+	margin-top:8.5px;
+}
+#news3{
+	margin-top:8.5px;
+}
+#news4{
+	margin-top:8.5px;
+}
+.aNews{
+margin-left:15px;
+height:20px;
+
+}
+.aNewsblank{
+width:5px;
+height:20px;
+float:left;
+}
+.aNews a{
+	text-decoration:none;
+	color:#666666;
+	line-height:4px;
+	font-size:13px;
+}
+.aNews a:hover{
+	font-weight:bold;
+	color:#0099ff;	
+		text-decoration:none;
+}
+.aNewsTitle{
+	text-decoration:none;
+	color:#666666;
+	line-height:4px;
+	font-size:13px;
+}
+.aNewsTitle:hover{
+	font-weight:bold;
+	color:#0099ff;	
+		text-decoration:none;
+}
+.sign{
+float:left;
+}
+.newsUnderCut{
+width:520px;
+height:15px;
+}
+.newsTextTitle{
+text-align:center;
+}
+.newsTextTitle span{
+font-size:16px;
+color:#0099ff;
+line-height:50px;
+}
+.newsTime span{
+float:right;
+height:18px;
+	color:#666666;
+}
+.newsTime{
+width:550px;
+height:28px;
+border-bottom: 1px dashed
+}
+.newsText{
+line-height:26px;
+	color:#333333;
+	font-size:13px;
+}
+.newstext pre{
+	font-size:13px;
+	line-height:22px;
+	font-family:"微软雅黑";
+	word-wrap:break-word;
+	color:#333333;
+}
+
+
+
+
+
+
+
+
+

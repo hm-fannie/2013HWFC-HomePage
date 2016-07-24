@@ -1,0 +1,99 @@
+﻿.clubbox{
+	width:615px;
+	
+	float:left;
+	margin-left:8px;
+	background-image:url(../img/clubback.png);
+	border:6px solid #0099ff;
+	float:left;
+
+}
+.length{
+	width:0px;
+	height:815px;
+	float:left;
+}
+.clubContain{
+	width:550px;
+	margin:0px auto;
+	margin-top:20px;
+}
+.clubHead{
+	width:550px;
+	height:50px;
+}
+.clublogo{
+float:right;
+}
+.undercut{
+	height:30px;
+}
+.cutline{
+	width:550px;
+	height:30px;
+	background-image:url(../img/cutline.png);
+	font-weight:bold;
+	line-height:26px;
+}
+.cutHome{
+	color:#666666;
+	margin-left:25px;
+	
+}
+.cutline a{
+text-decoration:none;
+}
+
+.cutClub{
+	color:#0066ff;
+	margin-left:10px;
+}
+.cutshow {
+	width:42px;
+	height:34px;
+	background-image:url(../img/cutshow.png);
+	color:white;
+	line-height:34px;
+	text-align:center;
+	float:left;
+}
+
+.cuthide {
+	float:left;
+	width:42px;
+	height:34px;
+	background-image:url(../img/cuthide.png);
+	color:black;
+	line-height:34px;
+	text-align:center;
+}
+.cutblank{
+	width:5px;
+	height:34px;
+	float:left;
+}
+.clubtext{
+	width:550px;
+	margin-top:20px;
+}
+.clubtext pre{
+	font-size:13px;
+	line-height:22px;
+	font-family:"微软雅黑";
+	word-wrap:break-word;
+	color:#333333;
+}
+
+#clubtext1{
+display:none;
+}
+#clubtext2{
+display:none;
+}
+#clubtext3{
+display:none;
+}
+
+
+
+
